@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_nam">M3_hw_4</string>
+    <string-array name="amino_acids_full_txt">string
+        <item>Потомки солнца</item>
+        <item>Звук волшебства</item>
+        <item>Винченцо</item>
+        <item>Падаюшая звезда</item>
+        <item>Болтун</item>
+        <item>Пентхаус</item>
+        <item>Териус позади меня</item>
+        <item>Я не робот</item>
+        <item>Алые серца Корё</item>
+        <item>Любовь на льду</item>
+        <item>Невеста демона</item>
+        <item>Повелитель солнца</item>
+    </string-array>
+    <string name="dd">Потомки солнца</string>
+    <string name="ww">16 серий</string>
+
+    <string-array name="number_dorama">
+        <item>16 серий</item>
+        <item>6 серий</item>
+        <item>20 серий</item>
+        <item>16 серий</item>
+        <item>16 серий</item>
+        <item>21 серий</item>
+        <item>16 серий</item>
+        <item>16 серий</item>
+        <item>20 серий</item>
+        <item>40 серий</item>
+        <item>16 серий</item>
+        <item>17 серий</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
